@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is just an interface project. There is no backend connection, it is done with Next JS. You can click on the site link for a preview.
+
+## Preview:
+
 
 ## Getting Started
 
