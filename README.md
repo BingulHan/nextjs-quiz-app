@@ -1,7 +1,7 @@
 This project is just an interface project. There is no backend connection, it is done with Next JS. You can click on the site link for a preview.
 
 ## Preview:
-
+https://6540b905d235e20008c6c0c0--endearing-mandazi-60b178.netlify.app/
 
 ## Getting Started
 
